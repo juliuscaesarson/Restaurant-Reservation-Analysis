@@ -9,7 +9,7 @@ In this project, I analyzed a data set containing historical reservations for a 
 
 Questions to answer:
 1. Do diners book more at specific times of day? Specific days of the week?
-2. How far in advance do diners book? Does it vary depending on the reser- vation date? (e.g. Saturday reservations are booked 2 weeks ahead of time, people book 1 day ahead of time on Tuesdays).
+2. How far in advance do diners book? Does it vary depending on the reservation date? (e.g. Saturday reservations are booked 2 weeks ahead of time, people book 1 day ahead of time on Tuesdays).
 3. Does size of party affect booking behaviors or trends?
 4. Are there seasonal trends?
 
