@@ -1,6 +1,6 @@
 Restaurant Reservation Analysis
 
-In this project, I analyzed a data set containing historical reservations for a fine-dining restaurant that is stored in the file “restaurant history data.csv”. This restaurant only accepts reservations booked online and hence does accept walk in customers. Each row in this data corresponds to a booked reservation. The columns have the following meaning:
+In this project, I analyzed a data set containing historical reservations for a fine-dining restaurant that is stored in the file “restaurant history data.csv”. This restaurant only accepts reservations booked online and hence does not accept walk in customers. Each row in this data corresponds to a booked reservation. The columns have the following meaning:
 
 • reservation date: The date that the reservation was booked for. In other words, this is the date when the customer will dine.
 • reservation time: The time that the reservation was booked for.
