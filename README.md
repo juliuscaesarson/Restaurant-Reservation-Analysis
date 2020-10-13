@@ -13,4 +13,4 @@ Questions to answer:
 3. Does size of party affect booking behaviors or trends?
 4. Are there seasonal trends?
 
-I used Python and MadPlotLib to provide visual data to the questions above
+I used Pandas, NumPy, and MadPlotLib to provide visual data to the questions above
